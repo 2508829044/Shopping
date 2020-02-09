@@ -1,0 +1,1 @@
+<view class="newsdetail data-v-07138f4c"><text class="data-v-07138f4c">{{arr.author_name}}</text><text class="data-v-07138f4c">{{arr.updated_at}}</text><text class="data-v-07138f4c">{{arr.summary}}</text><text class="data-v-07138f4c"><rich-text nodes="{{arr.content}}"></rich-text></text></view>

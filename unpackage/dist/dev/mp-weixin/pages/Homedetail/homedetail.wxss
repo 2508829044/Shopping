@@ -1,0 +1,117 @@
+.rgb.data-v-193a6fcc {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+page.data-v-193a6fcc {
+  background-color: #f8f8f8;
+}
+.page-section swiper.data-v-193a6fcc {
+  display: block;
+  height: 300px;
+}
+.swiper image.data-v-193a6fcc {
+  width: 100%;
+  height: 300px;
+}
+.shoppingtitle.data-v-193a6fcc {
+  width: 100%;
+  background-color: #ffffff;
+}
+.shoppingtitle text.data-v-193a6fcc {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 17px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  padding-left: 5px;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.shoppingtitle view.data-v-193a6fcc {
+  color: red;
+  font-size: 16px;
+  font-weight: 600;
+  padding-left: 3px;
+}
+.bottom-button.data-v-193a6fcc {
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  z-index: 999;
+}
+.switch.data-v-193a6fcc {
+  width: 100%;
+  height: 60px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  line-height: 40px;
+  font-size: 15.7px;
+  background-color: #ffffff;
+}
+.switch text.data-v-193a6fcc {
+  width: 20px;
+  height: 50px;
+  padding-bottom: 20px;
+  padding-left: 15.5px;
+  padding-right: 15.5px;
+}
+.active text.data-v-193a6fcc {
+  color: red;
+  border-bottom: 1px solid red;
+}
+.introduce image.data-v-193a6fcc {
+  width: 100%;
+  height: 320px;
+}
+.commodity.data-v-193a6fcc {
+  width: 100%;
+  height: 400px;
+  background-color: #ffffff;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  z-index: 99;
+}
+.commodity .commoditytwo.data-v-193a6fcc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.commodity image.data-v-193a6fcc {
+  width: 150px;
+  height: 130px;
+  padding-top: 16px;
+}
+.commodity text.data-v-193a6fcc {
+  font-size: 14px;
+  padding-top: 16px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  padding-left: 5px;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.commodity .commodityone.data-v-193a6fcc {
+  width: 60%;
+}
+.commodity .commodityone view.data-v-193a6fcc {
+  color: red;
+  font-size: 14px;
+  padding-left: 3px;
+  padding-top: 15px;
+}
+

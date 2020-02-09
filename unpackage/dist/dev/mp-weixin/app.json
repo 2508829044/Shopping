@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/Home/home",
+    "pages/Homedetail/homedetail",
+    "pages/Mine/mine",
+    "pages/Shopping/shopping",
+    "pages/Newsand/newsand",
+    "pages/Newsdetail/newsdetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#0055ff",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/Home/home",
+        "text": "首页",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home%20(1).png"
+      },
+      {
+        "pagePath": "pages/Newsand/newsand",
+        "text": "新闻资讯",
+        "iconPath": "static/文档%20折角%20文本%20新闻%20资讯%20面性.png",
+        "selectedIconPath": "static/文档%20折角%20文本%20新闻%20资讯%20面性%20(1).png"
+      },
+      {
+        "pagePath": "pages/Shopping/shopping",
+        "text": "购物车",
+        "iconPath": "static/shopping.png",
+        "selectedIconPath": "static/shopping%20(1).png"
+      },
+      {
+        "pagePath": "pages/Mine/mine",
+        "text": "个人中心",
+        "iconPath": "",
+        "selectedIconPath": ""
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

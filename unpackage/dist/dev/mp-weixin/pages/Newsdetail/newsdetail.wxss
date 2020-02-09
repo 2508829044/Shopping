@@ -1,0 +1,19 @@
+.newsdetail.data-v-07138f4c {
+  width: 100%;
+  overflow: hidden;
+}
+.newsdetail text.data-v-07138f4c {
+  text-align: center;
+  margin: 0px auto;
+  display: block;
+  font-weight: 600;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 10px;
+}
+.newsdetail image.data-v-07138f4c {
+  width: 100%;
+}
+.newsdetail image.data-v-07138f4c:nth-last-child(2) {
+  width: 100%;
+}
+

@@ -1,0 +1,79 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/Home/home",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/Homedetail/homedetail",
+			"style": {
+				"navigationBarTitleText": "商品详情"
+			}
+		},
+		{
+			"path": "pages/Mine/mine",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/Shopping/shopping",
+			"style": {
+				"navigationBarTitleText": "购物车"
+			}
+		},
+		{
+			"path": "pages/Newsand/newsand",
+			"style": {
+				"navigationBarTitleText": "新闻资讯"
+			}
+		},
+		{
+			"path": "pages/Newsdetail/newsdetail",
+			"style": {
+				"navigationBarTitleText": "新闻详情"
+			}
+		}
+	],
+	"tabBar":{
+	    "color":"#8a8a8a",
+	 	"selectedColor":"#0055ff",
+	 	"borderStyle":"black",
+	 	"backgroundColor":"#ffffff",
+	  "list":[
+		  {
+		  	"pagePath":"pages/Home/home", //导航栏地址
+		  	"text":"首页", //导航栏名字
+		  	"iconPath":"static/home.png", //没选中后的导航栏图片样式
+		  	 "selectedIconPath":"static/home%20(1).png" //选中后的导航栏图片样式
+		   },
+		   {
+		   		"pagePath":"pages/Newsand/newsand",
+		   		"text":"新闻资讯",
+		   		"iconPath":"static/文档%20折角%20文本%20新闻%20资讯%20面性.png", 
+		   		"selectedIconPath":"static/文档%20折角%20文本%20新闻%20资讯%20面性%20(1).png" 
+		   },
+		   {
+		   		"pagePath":"pages/Shopping/shopping",
+		   		"text":"购物车",
+		   		"iconPath":"static/shopping.png", 
+		   		"selectedIconPath":"static/shopping%20(1).png" 
+		   },
+		   {
+			   "pagePath":"pages/Mine/mine",
+			   "text":"个人中心",
+			   "iconPath":"static/mine.png", 
+			   "selectedIconPath":"static/mine%20(1).png" 
+		   }
+		  
+	  ]		
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
